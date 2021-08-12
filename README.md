@@ -15,6 +15,17 @@ This app to enable distribution of products as per scheduling
  
 # Back-end 
  Express framework powered by node-json-db
+ 
+# steps to use app
+
+1. Add a schedule (several) on the add schedule page
+2. Add a product (or several )on the add product page.For each product you can select
+   several schedules
+3. Go to the products page to see the list of products .Each product includes all associated 
+   shcedules
+ 
+
+ 
 
  
   
