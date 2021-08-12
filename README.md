@@ -1,4 +1,4 @@
-# Distribution
+# Distribution Management App
 This app to enable distribution of products as per scheduling
 
 # Getting Started
